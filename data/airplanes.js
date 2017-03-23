@@ -1,5 +1,5 @@
 
-[
+const airplanes = [
     {
         "id": 1,
         "registration": "C-FNND",
@@ -35,4 +35,6 @@
         "manufacturer": "Bombardier",
         "type": "DHC-8-400"
     }
-]
+];
+
+module.exports = airplanes;
